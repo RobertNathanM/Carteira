@@ -1,0 +1,20 @@
+{
+  "name": "carteira",
+  "version": "1.0.0",
+  "description": "carteira de estudante",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RobertNathanM/Carteira.git"
+  },
+  "author": "Robert Nathan Moraes",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/RobertNathanM/Carteira/issues"
+  },
+  "homepage": "https://github.com/RobertNathanM/Carteira#readme"
+}
